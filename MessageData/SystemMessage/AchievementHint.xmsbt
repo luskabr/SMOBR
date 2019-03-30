@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-16"?>
+<xmsbt>
+	<entry label="Shine_HideAndSeekCapMan">
+		<text>Find Bonneters hidden on
+people's heads.</text>
+	</entry>
+	<entry label="Souvenir_Count_2">
+		<text>Collect souvenirs and stickers.</text>
+	</entry>
+	<entry label="Costume_Clothes_2">
+		<text>Collect outfits.</text>
+	</entry>
+	<entry label="Souvenir_Count_3">
+		<text>Collect souvenirs and stickers.</text>
+	</entry>
+	<entry label="Shine_KuriboGirl">
+		<text>Collect Power Moons from
+Goombette.</text>
+	</entry>
+	<entry label="Shine_TravelingPeach_1">
+		<text>Meet up with Princess Peach
+as she travels the world.</text>
+	</entry>
+	<entry label="Shine_CostumeRoom_1">
+		<text>Collect Power Moons by
+wearing certain outfits.</text>
+	</entry>
+	<entry label="Shine_TravelingPeach_2">
+		<text>Meet up with Princess Peach
+as she travels the world.</text>
+	</entry>
+	<entry label="Shine_CostumeRoom_2">
+		<text>Collect Power Moons by
+wearing certain outfits.</text>
+	</entry>
+	<entry label="Costume_Cap_1">
+		<text>Collect hats.</text>
+	</entry>
+	<entry label="Shine_CostumeRoom_3">
+		<text>Collect Power Moons by
+wearing certain outfits.</text>
+	</entry>
+	<entry label="Costume_Cap_2">
+		<text>Collect hats.</text>
+	</entry>
+	<entry label="Capture_Count_1">
+		<text>Capture targets.</text>
+	</entry>
+	<entry label="Capture_Count_2">
+		<text>Capture targets.</text>
+	</entry>
+	<entry label="Other_MoonStoneAll">
+		<text>Open Moon Rocks.</text>
+	</entry>
+	<entry label="Other_Coin_1">
+		<text>Collect coins.</text>
+	</entry>
+	<entry label="Shine_Shine2D_1">
+		<text>Collect 8-Bit Power Moons.</text>
+	</entry>
+	<entry label="Shine_Bird">
+		<text>Collect Power Moons from
+migrating birds.</text>
+	</entry>
+	<entry label="Capture_Count_3">
+		<text>Capture targets.</text>
+	</entry>
+	<entry label="Other_Coin_2">
+		<text>Collect coins.</text>
+	</entry>
+	<entry label="Shine_Shine2D_2">
+		<text>Collect 8-Bit Power Moons.</text>
+	</entry>
+	<entry label="Other_Coin_3">
+		<text>Collect coins.</text>
+	</entry>
+	<entry label="MiniGame_RaceMan_1">
+		<text>Win Koopa Freerunning races.</text>
+	</entry>
+	<entry label="MiniGame_RaceMan_2">
+		<text>Win Koopa Freerunning races.</text>
+	</entry>
+	<entry label="Other_Jump">
+		<text>Jump.</text>
+	</entry>
+	<entry label="Other_WorldWarpHoleAll">
+		<text>Travel through warp holes.</text>
+	</entry>
+	<entry label="Shine_TreasureBox_1">
+		<text>Collect Power Moons from
+treasure chests.</text>
+	</entry>
+	<entry label="Shine_TreasureBox_2">
+		<text>Collect Power Moons from
+treasure chests.</text>
+	</entry>
+	<entry label="Shine_HintPhoto_1">
+		<text>Collect Power Moons using
+Hint Art.</text>
+	</entry>
+	<entry label="Shine_HintPhoto_2">
+		<text>Collect Power Moons using
+Hint Art.</text>
+	</entry>
+	<entry label="Shine_CollectAnimalAll">
+		<text>Herd sheep to collect a
+Power Moon.</text>
+	</entry>
+	<entry label="Shine_Rabbit_1">
+		<text>Catch rabbits to collect
+Power Moons.</text>
+	</entry>
+	<entry label="Shine_Rabbit_2">
+		<text>Catch rabbits to collect
+Power Moons.</text>
+	</entry>
+	<entry label="Scenario_Ending">
+		<text>Rescue Princess Peach
+from Bowser.</text>
+	</entry>
+	<entry label="Shine_CaptainKinopio_1">
+		<text>Meet up with Captain Toad.</text>
+	</entry>
+	<entry label="Shine_CollectCoinShop">
+		<text>Buy things using
+regional coins.</text>
+	</entry>
+	<entry label="Shine_CaptainKinopio_2">
+		<text>Meet up with Captain Toad.</text>
+	</entry>
+	<entry label="Other_CapThrow">
+		<text>Throw Cappy.</text>
+	</entry>
+	<entry label="Shine_TimerAthretic_1">
+		<text>Collect Power Moons from
+Timer Challenges.</text>
+	</entry>
+	<entry label="Shine_TimerAthretic_2">
+		<text>Collect Power Moons from
+Timer Challenges.</text>
+	</entry>
+	<entry label="Shine_MusicNote_1">
+		<text>Collect Power Moons from
+taking Notes.</text>
+	</entry>
+	<entry label="Shine_CollectBgm">
+		<text>Play the music that Toad
+wants to hear.</text>
+	</entry>
+	<entry label="Shine_MusicNote_2">
+		<text>Collect Power Moons from
+taking Notes.</text>
+	</entry>
+	<entry label="Shine_Jugem">
+		<text>Fish for Power Moons
+as Lakitu.</text>
+	</entry>
+	<entry label="Shine_CapHanger_1">
+		<text>Collect Power Moons by
+throwing your hat on things.</text>
+	</entry>
+	<entry label="Other_CheckPoint_1">
+		<text>Activate Checkpoint Flags.</text>
+	</entry>
+	<entry label="Shine_CapHanger_2">
+		<text>Collect Power Moons by
+throwing your hat on things.</text>
+	</entry>
+	<entry label="Other_CheckPoint_2">
+		<text>Activate Checkpoint Flags.</text>
+	</entry>
+	<entry label="Shine_Seed_1">
+		<text>Grow seeds to collect
+Power Moons.</text>
+	</entry>
+	<entry label="Shine_Seed_2">
+		<text>Grow seeds to collect
+Power Moons.</text>
+	</entry>
+	<entry label="Shine_DigPoint_1">
+		<text>Dig up Power Moons by
+Ground Pounding.</text>
+	</entry>
+	<entry label="Shine_Gather_1">
+		<text>Collect Power Moons.</text>
+	</entry>
+	<entry label="Shine_DigPoint_2">
+		<text>Dig up Power Moons by
+Ground Pounding.</text>
+	</entry>
+	<entry label="Shine_Gather_2">
+		<text>Collect Power Moons.</text>
+	</entry>
+	<entry label="Shine_Gather_3">
+		<text>Collect Power Moons.</text>
+	</entry>
+	<entry label="Shine_CapThrottle">
+		<text>Collect Power Moons playing
+Slots.</text>
+	</entry>
+	<entry label="MiniGame_FigureWalker">
+		<text>Receive passing scores in
+Koopa Trace-Walking.</text>
+	</entry>
+	<entry label="Scenario_WorldAll">
+		<text>Bring peace to all kingdoms in
+the world.</text>
+	</entry>
+	<entry label="MiniGame_SphinxQuiz">
+		<text>Answer all of the Sphynx's
+questions correctly.</text>
+	</entry>
+	<entry label="Souvenir_Count_1">
+		<text>Collect souvenirs and stickers.</text>
+	</entry>
+	<entry label="Costume_Clothes_1">
+		<text>Collect outfits.</text>
+	</entry>
+</xmsbt>
