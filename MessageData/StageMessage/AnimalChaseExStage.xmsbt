@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<xmsbt>
+	<entry label="Talk_obj1541">
+		<text>How can I move my sheep to the place
+she is to be raised?&#xE;\0&#x4;\0Can you demonstrate how to do it?
+I was, er, sick that day in shepherd school.</text>
+	</entry>
+	<entry label="WaitBalloon2_obj1541">
+		<text>Way to herd!</text>
+	</entry>
+	<entry label="Talk_obj936">
+		<text>I have constructed the perfect place to
+raise sheep! Now I must get her there...&#xE;\0&#x4;\0Hmm... I don't know how to move sheep
+around. I am not a very good shepherd!</text>
+	</entry>
+	<entry label="WaitBalloon2_obj936">
+		<text>Amazing! Have you ever considered
+a career in shepherdry?</text>
+	</entry>
+	<entry label="ScenarioName_obj1383">
+		<text>Herding Sheep on the Iron Bridge</text>
+	</entry>
+	<entry label="ScenarioName_obj552">
+		<text>Herding Sheep Above the Forest Fog</text>
+	</entry>
+</xmsbt>
